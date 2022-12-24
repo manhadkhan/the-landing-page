@@ -64,3 +64,39 @@ button {
     color: #f9faf8;
     padding-right: 200px;
 }
+
+.info-header {
+    text-align: center;
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+}
+
+.info-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info-hori {
+    display: flex;
+    column-gap: 100px;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    border: 10px solid lightblue;
+    border-radius: 10px;
+  }
+
+ .card-text {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+ }
