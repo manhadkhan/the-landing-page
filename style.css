@@ -65,6 +65,8 @@ button {
     padding-right: 200px;
 }
 
+ /*Second part starts here*/
+
 .info-header {
     text-align: center;
     font-size: 36px;
@@ -99,4 +101,20 @@ button {
     height: 200px;
     width: 200px;
     text-align: center;
+ }
+
+ /*Third part starts here*/
+
+ .quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    height: 400px;
+ }
+
+ .quote {
+    width: 1000px;
+    color: #1f2937;
+    font-size: 36px;
  }
