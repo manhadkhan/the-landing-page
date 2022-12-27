@@ -118,3 +118,25 @@ button {
     color: #1f2937;
     font-size: 36px;
  }
+
+.cta {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-blue {
+    background-color: #3882f6;
+    width: 1000px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cta-lt {
+    display: flex;
+    flex-direction: column;
+}
