@@ -140,3 +140,10 @@ button {
     display: flex;
     flex-direction: column;
 }
+.footer {
+    background-color: #1f2937;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
