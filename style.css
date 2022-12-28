@@ -119,6 +119,8 @@ button {
     font-size: 36px;
  }
 
+ /*Fourth part starts here*/
+
 .cta {
     height: 300px;
     display: flex;
@@ -140,6 +142,9 @@ button {
     display: flex;
     flex-direction: column;
 }
+
+ /*Last part starts here*/
+
 .footer {
     background-color: #1f2937;
     height: 75px;
